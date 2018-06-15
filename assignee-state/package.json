@@ -1,0 +1,12 @@
+{
+  "name" : "com.esyfur.youtrack.workflows.assignee-state",
+  "title" : "Assignee and State",
+  "description" : null,
+  "dependencies" : {
+    "@jetbrains/youtrack-scripting-api" : "^2017.4.39406"
+  },
+  "youtrack" : {
+    "autoAttached" : true,
+    "readOnly" : false
+  }
+}
