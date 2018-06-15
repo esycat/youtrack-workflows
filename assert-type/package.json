@@ -1,0 +1,12 @@
+{
+  "name" : "com.esyfur.youtrack.workflows.assert-type",
+  "title" : "Require Type",
+  "description" : null,
+  "dependencies" : {
+    "@jetbrains/youtrack-scripting-api" : "^2017.4.39406"
+  },
+  "youtrack" : {
+    "autoAttached" : true,
+    "readOnly" : false
+  }
+}
