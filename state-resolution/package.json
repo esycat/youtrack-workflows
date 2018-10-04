@@ -3,7 +3,7 @@
   "title" : "State and Resolution",
   "description" : null,
   "dependencies" : {
-    "@jetbrains/youtrack-scripting-api" : "^2017.4.39406"
+    "@jetbrains/youtrack-scripting-api" : "^2018.2.45146"
   },
   "youtrack" : {
     "autoAttached" : true,
